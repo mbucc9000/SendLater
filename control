@@ -1,0 +1,9 @@
+Package: com.mbucc9000.sendlater
+Name: Send Later
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Schedule a text in Messages. Type your message, touch and hold Send, and pick a time. Your iPhone sends it then, even if Messages is closed or the phone is asleep. Touch and hold Send again to see, change, send now or cancel what's scheduled in that conversation.
+Author: mbucc9000
+Maintainer: mbucc9000
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 6.0)
